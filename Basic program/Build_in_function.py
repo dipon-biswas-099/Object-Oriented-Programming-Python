@@ -1,0 +1,5 @@
+highest = max([1,2,3,4,5,6])
+smallest = min([1,2,3,4,5,6])
+total = sum([1,2,3,4,5])
+count = len([1,2])
+print(highest, smallest , total , count)
